@@ -1,10 +1,9 @@
 # Hi I am Mishaal Ahmed 👋
 
 ## Profiles
-<a href="[https://scholar.google.com/citations?user=3WjBnzkAAAAJ&hl=en&authuser=3]">[Google Scholar]</a>
-<a href="[https://www.researchgate.net/profile/Mishaal-Ahmed]">[ResearchGate]</a>
-<a href="[https://www.webofscience.com/wos/author/record/AHD-7900-2022]">[WebofScience]</a>
-
+<span style="padding: 10px;"><a href="https://scholar.google.com/citations?user=3WjBnzkAAAAJ&hl=en&authuser=3">Google Scholar</a></span>
+<span style="padding: 10px;"><a href="https://www.researchgate.net/profile/Mishaal-Ahmed">Research Gate</a></span>
+<span style="padding: 10px;"><a href="https://www.webofscience.com/wos/author/record/AHD-7900-2022">Web of Science</a></span>
 ## About Me
 <ul>
 <li>🔭 I am a passionate researcher with a keen interest in Computer Science.</li> 
