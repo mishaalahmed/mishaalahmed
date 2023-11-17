@@ -12,4 +12,4 @@
 </ul>
 
 
-👯 I am always open to new collaborations and opportunities to expand my knowledge and contribute to the field of [Blockchain Technology and Software Security].
+👯 I am always open to new collaborations and opportunities to expand my knowledge and contribute to the field of Blockchain Technology and Software Security.
