@@ -1,7 +1,7 @@
 # Hi I am Mishaal Ahmed 👋
 
 ## Profiles
-<span style="padding: 10px;"><a href="https://scholar.google.com/citations?user=3WjBnzkAAAAJ&hl=en&authuser=3">Google Scholar</a></span>
+<span style="padding: 10px;"><a href="https://scholar.google.com/citations?user=AgS8a_UAAAAJ&hl=en">Google Scholar</a></span>
 <span style="padding: 10px;"><a href="https://www.researchgate.net/profile/Mishaal-Ahmed">Research Gate</a></span>
 <span style="padding: 10px;"><a href="https://www.webofscience.com/wos/author/record/AHD-7900-2022">Web of Science</a></span>
 ## About Me
