@@ -6,7 +6,7 @@
 <span style="padding: 10px;"><a href="https://www.webofscience.com/wos/author/record/AHD-7900-2022">Web of Science</a></span>
 ## About Me
 <ul>
-<li>🔭 I am a passionate researcher with a keen interest in Computer Science.</li> 
+<li>🔭 I am a Computer Science researcher.</li> 
 <li>🌱 My research focuses on Blockchain Technology, Software Engineering Methodologies, Software Security, and Information Technologies. </li>
 <li>🤔 I am an enthusiastic learner and enjoy exploring new technologies and methodologies.</li>
 </ul>
